@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">I am a web developer from India and I speak to computers for a living. I'm into AI and Web dev, always exploring new ideas and technologies.  <br><br>Thanks for visiting my page! Have a look around, check out my work, and feel free to connect once you're done. Always happy to collaborate and chat!</p>
+<p align="left">
+  I am a web developer from India, interested in AI, Blockchain, and Web Development. I'm always exploring new ideas and technologies.  
+  <br><br>
+  Thanks for visiting my page! I've worked on some side projects, feel free to check them out and connect once you're done. Always happy to collaborate and chat!
+</p>
+
 
 ###
 
