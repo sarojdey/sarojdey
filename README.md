@@ -23,10 +23,10 @@
 
 ## About Me
 
-Web developer from India focused on building clean, functional products across the full stack. I work mostly on **web and AI projects** — from crafting sharp frontends to wiring up solid backends and plugging in AI where it genuinely adds value.
+Web developer from India focused on building clean, functional products across the full stack. I work mostly on **web and AI projects** from crafting sharp frontends to wiring up solid backends and plugging in AI where it genuinely adds value.
 
 - 🔭 Currently building web and AI-powered projects
-- 🛠️ Full stack with a strong frontend focus
+- 🛠️ Full stack with strong engineering skills
 - 🤝 Open to collaborations on interesting ideas
 
 
