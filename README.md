@@ -3,6 +3,7 @@
 <p align="center">
   <em>Web Developer · AI Enthusiast · Building things from India 🇮🇳</em>
 </p>
+
 ## About Me
 
 Web developer from India focused on building clean, functional products across the full stack. I work mostly on **web and AI projects** from crafting sharp frontends to wiring up solid backends and plugging in AI where it genuinely adds value. Contact me at [sarojkumardey.mail@gmail.com](mailto:sarojkumardey.mail@gmail.com). I’d love to chat.
