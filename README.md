@@ -1,8 +1,9 @@
 <h1 align="center">Hey, I'm Saroj 👋</h1>
 
-<p align="center">
-  <em>Web Developer · AI Enthusiast · Building things from India 🇮🇳</em>
-</p>
+
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;AI+Enthusiast;Building+from+India&color=cyan&center=true" />
+</div>
 
 ## About Me
 
@@ -55,3 +56,7 @@ Web developer from India focused on building clean, functional products across t
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarojdey&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
+
+ <p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+ </p>
