@@ -5,8 +5,6 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;AI+Enthusiast;Building+from+India&color=cyan&center=true" />
 </div>
 
-## About Me
-
 Web developer from India focused on building clean, functional products across the full stack. I work mostly on **web and AI projects** from crafting sharp frontends to wiring up solid backends and plugging in AI where it genuinely adds value. Contact me at [sarojkumardey.mail@gmail.com](mailto:sarojkumardey.mail@gmail.com). I’d love to chat.
 
 - 🔭 Currently building web and AI-powered projects
@@ -46,15 +44,8 @@ Web developer from India focused on building clean, functional products across t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 </div>
 
-## GitHub Stats
-
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sarojdey&theme=dracula&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarojdey&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sarojdey&theme=github-dark-blue&border_radius=5&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 </p>
 
  <p align="center">
