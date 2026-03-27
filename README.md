@@ -5,7 +5,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;AI+Enthusiast;Building+from+India&color=cyan&center=true" />
 </div>
 
-Web developer from India focused on building clean, functional products across the full stack. I work mostly on **web and AI projects** from crafting sharp frontends to wiring up solid backends and plugging in AI where it genuinely adds value. Contact me at [sarojkumardey.mail@gmail.com](mailto:sarojkumardey.mail@gmail.com). I’d love to chat.
+Web developer focused on building clean, functional products across the full stack. I work mostly on **web and AI projects** from crafting sharp frontends to wiring up solid backends and plugging in AI where it genuinely adds value. Contact me at [sarojkumardey.mail@gmail.com](mailto:sarojkumardey.mail@gmail.com). I’d love to chat.
 
 - 🔭 Currently building web and AI-powered projects  
 - 🛠️ Full stack with strong engineering skills  
